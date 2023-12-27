@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as Supervisor
 - 🌱 I’m currently learning git,Jenkins,
 - 👯 I’m looking to collaborate as 
-- 🤔 I’m looking for suggest fors
+- 🤔 I’m looking for suggestions for
 - 💬 Ask me about anything
 - 📫 How to reach me: ganjikarthikbabu@gmail.com
 
@@ -13,7 +13,7 @@
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [BALAJI INSTITUTE OF TECHNOGICAL SCIENCE](https://www.bitswgl.ac.in) || [JNTUH](https://www.jntuh.ac.in) | Bachelor of Electrical Engineering  | Warangal `2011-2015`
+ #### 2. [BALAJI INSTITUTE OF TECHNOLOGY SCIENCE](https://www.bitswgl.ac.in) [JNTUH](https://www.jntuh.ac.in) | Bachelor of Electrical Engineering  | Warangal `2011-2015`
    - Chief of Rohkris
 ---
 ### Connect with me:
