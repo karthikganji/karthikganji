@@ -1,15 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Karthik Babu Ganji - aka [Karthik Ganji](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA) 👋
+## About me:
+- 🔭 I’m currently working as Supervisor
+- 🌱 I’m currently learning git,Jenkins,
+- 👯 I’m looking to collaborate as 
+- 🤔 I’m looking for suggest fors
+- 💬 Ask me about anything
+- 📫 How to reach me: ganjikarthikbabu@gmail.com
 
-**karthikganji/karthikganji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ## Education:
 
-Here are some ideas to get you started:
+#### 1. [Wrexham Glyndwr University](https://www.wrexham.ac.uk) |Masters in Business adminstration | Wrexham `2021-2022`
+   - Asistant Laboratorium of Basic Electronics
+   - Asistant Laboratorium of Installation
+   - Tutor of Engineering Mathematics
+ #### 2. [BALAJI INSTITUTE OF TECHNOGICAL SCIENCE || JNTU](https://www.bitswgl.ac.in/ || https://www.jntuh.ac.in) | Bachelor of Electrical Engineering  | Warangal `2011-2015`
+   - Chief of Rohkris
+---
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA#gh-dark-mode-only)
+&nbsp;&nbsp;
 
+
+[![website](./img/twitter-light.svg)](https://twitter.com/ganji_karthik#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ganji_karthik#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/karthikbabuganji#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/karthikbabuganji#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/karthikbabu_gk#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/karthikbabu_gk#gh-dark-mode-only)
+
+
+
+[webdev]: https://github.com/karthikganji/karthikganji
