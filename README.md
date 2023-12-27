@@ -1,4 +1,6 @@
 # Hi there, I'm Karthik Babu Ganji - aka [Karthik Ganji](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA) 👋
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikganji" alt="karthikganji" /></a> </p>
 ## About me:
 - 🔭 I’m currently working as Supervisor
 - 🌱 I’m currently learning git,Jenkins,
