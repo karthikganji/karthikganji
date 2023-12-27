@@ -19,8 +19,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA#gh-light-mode-onlytarget="_blank" )
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA#gh-dark-mode-onlytarget="_blank")
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/ganji_karthik#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ganji_karthik#gh-dark-mode-only)
