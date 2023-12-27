@@ -13,7 +13,7 @@
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [BALAJI INSTITUTE OF TECHNOGICAL SCIENCE || JNTU](https://www.bitswgl.ac.in/ || https://www.jntuh.ac.in) | Bachelor of Electrical Engineering  | Warangal `2011-2015`
+ #### 2. [BALAJI INSTITUTE OF TECHNOGICAL SCIENCE](https://www.bitswgl.ac.in) || [JNTUH](https://www.jntuh.ac.in) | Bachelor of Electrical Engineering  | Warangal `2011-2015`
    - Chief of Rohkris
 ---
 ### Connect with me:
@@ -21,8 +21,6 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-
 [![website](./img/twitter-light.svg)](https://twitter.com/ganji_karthik#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/ganji_karthik#gh-dark-mode-only)
 &nbsp;&nbsp;
