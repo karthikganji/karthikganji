@@ -17,7 +17,7 @@
  #### 2. [BALAJI INSTITUTE OF TECHNOLOGY SCIENCE](https://www.bitswgl.ac.in) [JNTUH](https://www.jntuh.ac.in) | Bachelor of Electrical Engineering  | Warangal `2011-2015`
    - Chief of Rohkris
 ---
-### <p align="left">
+### <p align="center"><h3>connect with me:</h3>
 <a href="https://twitter.com/@ganji_karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ganji_karthik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/karthikbabuganji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikbabuganji" height="30" width="40" /></a>
 <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
