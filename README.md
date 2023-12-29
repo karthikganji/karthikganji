@@ -1,4 +1,4 @@
-# Hi there, I'm [Karthik Babu Ganji](https://www.karthikganji.github.io) 👋
+# Hi there, I'm [Karthik Babu Ganji](https://karthikganji.github.io) 👋
 
 ## About me:
 - 🔭 I’m currently working as Supervisor
