@@ -38,4 +38,4 @@
 <a href="https://www.youtube.com/@nayamediaworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-[webdev]: https://github.com/karthikganji/karthikganji
+[webdev]: https://karthikganji.github.io/
