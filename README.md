@@ -1,4 +1,4 @@
-# Hi there, I'm [Karthik Babu Ganji](https://www.youtube.com/channel/UC52Zm8Eqyy6EYD39HENpTTA) 👋
+# Hi there, I'm [Karthik Babu Ganji](https://www.karthikganji.github.io) 👋
 
 ## About me:
 - 🔭 I’m currently working as Supervisor
